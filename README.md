@@ -1,6 +1,4 @@
-# Finance-system
-An offline, privacy-first multi-agent financial intelligence system utilizing Llama 3 for local PDF RAG, calculations, and predictive modeling.
-# financialAI Analysis: Offline Multi-Agent Financial Intelligence System
+# Finance-system: Offline Multi-Agent Financial Intelligence System
 
 An offline, privacy-first multi-agent financial analysis platform designed to process unstructured corporate financial data (PDFs) and provide deterministic mathematical calculations, analytical reports, and predictive trend forecasts. 
 
@@ -20,7 +18,4 @@ To run this system fully offline on your local machine, you must download the fo
 * Download and install the **Ollama Desktop Application** for your operating system from [Ollama's official website](https://ollama.com/download).
 * Once Ollama is installed and running, open your command prompt or terminal and download the required open-source LLM by running the following command:
   ```bash
-###3. Required Python Libraries
   ollama pull llama3
-  pip install -r requirements.txt
-  python code/dataset.py
