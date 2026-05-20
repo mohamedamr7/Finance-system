@@ -1,0 +1,17 @@
+# Ignore python virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignore temporary Excel files generated at runtime
+*.xlsx
+
+# Ignore temporary PDF reports generated at runtime
+Report_*.pdf
+Financial_Report_*.pdf
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
